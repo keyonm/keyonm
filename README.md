@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Keyon!
+- 👀 I’m interested in Arts, Basketball, Fashion, Food, Football, Hiking, Movies, Music, Nature, Photography, Social Justice, Science, Technology, TV, Running
+- 🌱 I’m currently learning Applied Linear Algebra, Computer Science Pragmatics, Programming and Intro Data Structures
+- 📫 How to reach me keyonm(at)umich(dot)edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've never had under 100k minutes listened on Spotify Wrapped
