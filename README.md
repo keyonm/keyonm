@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Keyon!
 
-I'm a 2nd year CS student at the University of Michigan minoring in Mathematics interested in pursuing software engineering. 
+I'm a 2nd year CS student at the University of Michigan minoring in Discrete Mathematics interested in pursuing software engineering. 
 
 ## About Me
 
