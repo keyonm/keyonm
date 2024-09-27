@@ -12,4 +12,4 @@ I'm a 2nd year CS student at the University of Michigan minoring in Mathematics 
 <br />
 📬 Best way to reach me is my email, keyonm@umich.edu. My linkedin is http://linkedin.com/in/keyon-mazandarani. <br />
 <br />
-💭 Ask my about anything! My interests are the arts, basketball, fashion, food, football, hiking, medicine, movies, music, nature, photography, social justice, sciences, technology, tv, and running.
+💭 Ask my about anything! My interests are art, basketball, concerts, fashion, food, football, hiking, medicine, movies, music, nature, photography, social justice, sciences, technology, tv, and running.
