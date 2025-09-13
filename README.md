@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Keyon!
 
-I'm a 2nd year CS student at the University of Michigan interested in pursuing software engineering. 
+I'm a 3rd year CS student at the University of Michigan interested in pursuing software engineering, currently interested in Distributed Systems. 
 
 ## About Me
 
-📚 I'm currently mastering C++, Python, and Web Dev, while endlessly leetcoding. Currently I am an undergrad research assistant at UofM while taking Distributed Systems and Web Systems, and have finished Data Structures and Algorithms, Intro to Computer Organization, and CS Pragmatics <br />
+📚 I'm currently mastering C++, Python, Go, and Web Dev, while endlessly leetcoding. Currently I am an undergrad research assistant at UofM while taking Distributed Systems and Web Systems, and have finished Data Structures and Algorithms, Intro to Computer Organization, and CS Pragmatics <br />
 <br />
-🔭 I'm currently working on course and club projects while starting personal projects. <br />
+🔭 I'm currently working on research and my courses. <br />
 <br />
 🔎 Unfortunately, I have to keep my projects private for now. If you want to see what I've worked on, message me! <br />
 <br />
