@@ -4,8 +4,8 @@ I'm a 3rd year CS student at the University of Michigan pursuing software engine
 
 ## 👨‍💻 About Me
 
-* 📚 Currently mastering C++, Python, and Go.
-* 🔭 I'm working on architecture research in the Crucible Computing Lab.
+* 📚 I'm currently mastering C++, Python, and Go.
+* 🔭 I'm working on architecture research here at the University of Michigan in the Crucible Computing Group.
 * 🎉 I recently celebrated my first research conference paper acceptance!
 
 ## 🛠️ Recent Projects
