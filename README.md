@@ -4,7 +4,7 @@ CS senior at the University of Michigan interested in distributed systems and sy
 
 ## 👨‍💻 About Me
 - 💼 Incoming SWE Intern at Google on Cloud Spanner
-- 🔭 Software Profiling for Michigan's Crucible Computing Research Group — first paper accepted to DATE 2026!
+- 🔭 Software Profiling in Michigan's Crucible Computing Research Group — first paper accepted to DATE 2026!
 - 📚 Currently working in C++
 
 ## 🛠️ Recent Projects
